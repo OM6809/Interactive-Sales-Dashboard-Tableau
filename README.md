@@ -24,3 +24,4 @@ Weekly Trends for Sales & Profit
  – Display the average weekly values.
 
  – Highlight weeks that are above and below the average to draw attention to sales & profit performance.
+ Link - https://public.tableau.com/views/Sales_Analytics_17551138094530/SalesDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
